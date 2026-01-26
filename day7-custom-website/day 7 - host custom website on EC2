@@ -1,0 +1,16 @@
+# Day 7 – EC2 Nginx Custom Website
+
+## Objective
+Host a custom static website on AWS EC2 using Nginx and access it via public IP.
+
+## Steps Performed
+1. Launched Ubuntu 22.04 EC2 instance
+2. Configured Security Group to allow SSH (22) and HTTP (80)
+3. Connected to EC2 using SSH key from Git Bash
+4. Installed and verified Nginx web server
+5. Created a custom HTML webpage
+6. Accessed the website via EC2 public IP
+
+## Proof
+Screenshots are attached below.
+  
