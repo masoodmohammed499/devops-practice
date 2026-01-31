@@ -5,6 +5,6 @@
 3. Attached Role to EC2 (for least-privilege S3 access)
 4. Screenshots showing bucket, IAM Role, and policy attachment:
 
-![IAM Role Screenshot](iam-role.png)
-![S3 Bucket Screenshot](s3-bucket.png)
-![Policy Screenshot](policy.png)
+![IAM Role Screenshot]
+![S3 Bucket Screenshot]
+![Policy Screenshot]
