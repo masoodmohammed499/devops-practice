@@ -1,0 +1,23 @@
+day12-architecture.txt
+
+Day 12 – Production Architecture (AWS)
+
+User
+ |
+ v
+Application Load Balancer
+ |
+ v
+Auto Scaling Group
+ |
+ v
+EC2 Instances (Nginx)
+
+Security:
+- IAM Role attached to EC2
+- No access keys used
+
+Reason:
+- High availability
+- Scalability
+- Least privilege access
