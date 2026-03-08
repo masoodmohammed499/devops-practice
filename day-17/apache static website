@@ -1,0 +1,16 @@
+# AWS EC2 Static Website
+
+This project demonstrates how to deploy a static website on AWS EC2.
+
+Services used:
+- AWS EC2
+- Ubuntu
+- Apache2
+- SSH
+
+Steps:
+1. Launch EC2 instance
+2. Connect using SSH
+3. Install Apache
+4. Edit index.html
+5. Access website using public IP
